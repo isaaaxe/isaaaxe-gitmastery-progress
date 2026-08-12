@@ -195,5 +195,14 @@
       "Cmd('git') failed due to: exit code(128)\n  cmdline: git sparse-checkout set --skip-checks exercise_utils/__init__.py\n  stderr: 'fatal: unable to access 'https://github.com/git-mastery/exercises.git/': Failed to connect to github.com port 443 after 21093 ms: Could not connect to server\nfatal: could not fetch 3a2ac6749d04324755e3d69ec9ecf3d8a5aa7664 from promisor remote'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1786545881.724871,
+    "completed_at": 1786545906.736142,
+    "comments": [
+      "Cmd('git') failed due to: exit code(128)\n  cmdline: git ls-remote --tags\n  stderr: 'fatal: unable to access 'https://github.com/isaaaxe/isaaaxe-gitmastery-gm-duty-roster.git/': Failed to connect to github.com port 443 after 21087 ms: Could not connect to server'"
+    ],
+    "status": "Error"
   }
 ]
