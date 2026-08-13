@@ -1,19 +1,37 @@
 [
   {
-    "exercise_name": "stage-fright",
-    "started_at": 1786259052.348971,
-    "completed_at": 1786259054.09638,
+    "exercise_name": "branch-previous",
+    "started_at": 1786610838.783708,
+    "completed_at": 1786610840.312895,
     "comments": [
-      "Great work! You have successfully checked in all the actors!"
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "under-control",
-    "started_at": 1786258849.878628,
-    "completed_at": 1786258851.558151,
+    "exercise_name": "clone-repo",
+    "started_at": 1786267685.722639,
+    "completed_at": 1786267689.321764,
     "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786548628.001173,
+    "completed_at": 1786548629.80462,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786267386.97784,
+    "completed_at": 1786267390.58456,
+    "comments": [
+      "Great work creating a fork with Github!"
     ],
     "status": "Completed"
   },
@@ -23,76 +41,6 @@
     "completed_at": 1786259977.058889,
     "comments": [
       "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "undo-init",
-    "started_at": 1786261013.416653,
-    "completed_at": 1786261015.048163,
-    "comments": [
-      "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786261904.52558,
-    "completed_at": 1786261906.22471,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1786264390.440933,
-    "completed_at": 1786264392.265741,
-    "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786265500.626455,
-    "completed_at": 1786265510.075378,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786265537.617855,
-    "completed_at": 1786265551.339045,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786265642.406744,
-    "completed_at": 1786265648.129291,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786265909.639362,
-    "completed_at": 1786265911.303087,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1786266357.180621,
-    "completed_at": 1786266359.716419,
-    "comments": [
-      "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
   },
@@ -125,29 +73,117 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "fork-repo",
-    "started_at": 1786267386.97784,
-    "completed_at": 1786267390.58456,
+    "exercise_name": "link-me",
+    "started_at": 1786265909.639362,
+    "completed_at": 1786265911.303087,
     "comments": [
-      "Great work creating a fork with Github!"
+      "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "clone-repo",
-    "started_at": 1786267685.722639,
-    "completed_at": 1786267689.321764,
+    "exercise_name": "log-and-order",
+    "started_at": 1786264390.440933,
+    "completed_at": 1786264392.265741,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786266357.180621,
+    "completed_at": 1786266359.716419,
     "comments": [
-      "Great work creating a clone of a fork from Github!"
+      "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "view-commits",
-    "started_at": 1786543755.371952,
-    "completed_at": 1786543757.07963,
+    "exercise_name": "remote-control",
+    "started_at": 1786265500.626455,
+    "completed_at": 1786265510.075378,
     "comments": [
-      "Great work in viewing and understanding the diff of a specific commit!"
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786265537.617855,
+    "completed_at": 1786265551.339045,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786265642.406744,
+    "completed_at": 1786265648.129291,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1786548360.174851,
+    "completed_at": 1786548361.895022,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786547186.279511,
+    "completed_at": 1786547188.063953,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1786605974.442479,
+    "completed_at": 1786605976.092443,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1786606830.305571,
+    "completed_at": 1786606831.893488,
+    "comments": [
+      "Good work reverting commits!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1786610367.640765,
+    "completed_at": 1786610369.300043,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786259052.348971,
+    "completed_at": 1786259054.09638,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786261904.52558,
+    "completed_at": 1786261906.22471,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   },
@@ -157,24 +193,6 @@
     "completed_at": 1786544935.560565,
     "comments": [
       "Great work using git tag to annotate various commits in the repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "tags-update",
-    "started_at": 1786545085.145361,
-    "completed_at": 1786545088.686701,
-    "comments": [
-      "You are missing the 'january-update' tag."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "tags-update",
-    "started_at": 1786545140.676817,
-    "completed_at": 1786545142.475596,
-    "comments": [
-      "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
   },
@@ -197,29 +215,47 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-diff",
-    "started_at": 1786547186.279511,
-    "completed_at": 1786547188.063953,
+    "exercise_name": "tags-update",
+    "started_at": 1786545085.145361,
+    "completed_at": 1786545088.686701,
     "comments": [
-      "Great work comparing commits in git history!"
+      "You are missing the 'january-update' tag."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1786545140.676817,
+    "completed_at": 1786545142.475596,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "sensors-checkout",
-    "started_at": 1786548360.174851,
-    "completed_at": 1786548361.895022,
+    "exercise_name": "under-control",
+    "started_at": 1786258849.878628,
+    "completed_at": 1786258851.558151,
     "comments": [
-      "Great work traversing the revision history!"
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
   },
   {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1786548628.001173,
-    "completed_at": 1786548629.80462,
+    "exercise_name": "undo-init",
+    "started_at": 1786261013.416653,
+    "completed_at": 1786261015.048163,
     "comments": [
-      "Great work fetching and pulling different upstreams!"
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1786543755.371952,
+    "completed_at": 1786543757.07963,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
   }
